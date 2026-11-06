@@ -1,0 +1,16 @@
+TECLA — PROTOTIPO 02
+
+Cómo probar:
+1. Descomprimí el ZIP.
+2. Abrí index.html con Chrome, Edge o Firefox.
+3. Empezá a escribir directamente: el cronómetro arranca con la primera tecla.
+4. Probá Palabras / Texto, las duraciones y la opción Sin tildes.
+
+Correcciones incluidas:
+- La opción Sin tildes elimina únicamente marcas diacríticas; no borra letras.
+- Comparación Unicode de caracteres para contemplar letras acentuadas.
+- Textos revisados y correctamente escritos.
+- Inicio automático al escribir, sin clic previo.
+- Diseño adaptable a PC y celular.
+
+Es un prototipo local. Todavía no incluye cuentas, rankings ni guardado online.
